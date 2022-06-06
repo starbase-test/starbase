@@ -42,7 +42,7 @@
     "lodash.snakecase": "^4.1.1",
     "simple-git": "^3.3.0",
     "ts-node": "^10.4.0",
-    "typescript": "^4.5.5"
+    "typescript": "^4.6.4"
   },
   "devDependencies": {
     "@jupiterone/integration-sdk-dev-tools": "^8.11.0",

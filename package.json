@@ -41,7 +41,7 @@
     "js-yaml": "^4.1.0",
     "lodash.snakecase": "^4.1.1",
     "simple-git": "^3.3.0",
-    "ts-node": "^10.4.0",
+    "ts-node": "^10.7.0",
     "typescript": "^4.5.5"
   },
   "devDependencies": {

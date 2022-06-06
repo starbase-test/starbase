@@ -37,7 +37,7 @@
   "dependencies": {
     "@jupiterone/integration-sdk-cli": "^8.13.6",
     "@jupiterone/integration-sdk-core": "^8.13.6",
-    "ajv": "^8.9.0",
+    "ajv": "^8.11.0",
     "js-yaml": "^4.1.0",
     "lodash.snakecase": "^4.1.1",
     "simple-git": "^3.3.0",
